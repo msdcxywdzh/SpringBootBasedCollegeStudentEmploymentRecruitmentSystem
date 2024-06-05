@@ -1,7 +1,22 @@
-# 基于SpringBoot的大学生就业招聘系统
-SpringBoot、大学生就业、招聘系统、就业招聘平台、毕业生就业系统、学生招聘系统、SpringBoot应用开发、高校就业方案、校园人才招聘、大学职业服务
+## 从事Java开发6年，可以协助您毕设项目，论文，开题报告，课设，作业，远程部署运行，编程环境代安装，bug解决，代码讲解，资源查找，Python爬虫，写脚本，破解软件等等，全能型选手，已经服务超过千位同学，您遇到的任何问题都可以联系我，微信【msdcxywdzh】或关注公众号【蒲公英的问候】。
 
-# **支持毕设，课设，作业，爬虫，代部署运行项目，Java，python，mysql，vue，html，js等等，你遇到的问题都可以加微信【msdcxywdzh】或关注公众号【蒲公英的问候】**
+## 下面是已有的3000多套系统，包含（springboot，SSM，SSH，mysql，jsp，微信小程序，vue，js，html，css等等最全的项目）点击链接访问：
+
+# [2000份毕设供您选择，点击直接访问](https://docs.qq.com/doc/DS01EcHZXY3RraU9J)
+
+## 看上哪个系统可以找我演示，部分项目的演示视频可以直接访问哔哩哔哩我的频道，直接观看：
+
+# [B站演示视频](https://space.bilibili.com/121750346)
+
+------
+
+
+
+
+
+# 基于SpringBoot的大学生就业招聘系统
+
+SpringBoot、大学生就业、招聘系统、就业招聘平台、毕业生就业系统、学生招聘系统、SpringBoot应用开发、高校就业方案、校园人才招聘、大学职业服务
 
 1. SpringBoot大学生就业招聘系统开发指南：详细介绍如何使用SpringBoot框架搭建一个高效的大学生就业招聘系统，包括系统架构设计、主要功能实现及部署。
 2. 使用SpringBoot构建大学生就业招聘平台的最佳实践：分享开发大学生就业招聘平台的实际经验和技巧，帮助开发者高效构建可靠的就业招聘系统。
@@ -122,6 +137,3 @@ SpringBoot、大学生就业、招聘系统、就业招聘平台、毕业生就�
 
   ![Image](https://mmbiz.qpic.cn/mmbiz_jpg/nzADBmmFBroVzSicn95bd49HcQlWxz6PhF7NtjIgpjibBqcH6mRJq977mn4eEZWjN1D2kO0QSjDia1G8qhySd7DnQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-  
-
-# [2000份毕设供您选择，点击直接访问](javascript:;)
